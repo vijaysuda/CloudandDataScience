@@ -1,8 +1,5 @@
 
-# coding: utf-8
-
-# In[10]:
-
+# This program finds right queen sequence using genetic algorithm
 
 import numpy as np
 import sys
